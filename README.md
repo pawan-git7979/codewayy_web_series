@@ -3,26 +3,22 @@
 
 ## Task1
 
-It was about creating your first HTML Page with some commonly used tags.
+> It was about creating your first HTML Page with some commonly used tags.
 
 ## Task2
 
-Using some semantic tags.
-Creating a form.
-Creating a table.
+> Using Semantic tags.
+1. Creating a form.
+2. Creating a table.
 
 ## Task3
 
-Things we learned in HTML
+> HTML form linked.
 
 ## Task4
 
-Basic HTML page using new tags.
+> WD4E
 
 ## Task5
 
-HTML tags like aside and float
-
-## Task6
-
-A web portfolio using HTML and CSS
+> Used HTML tags like float and aside
