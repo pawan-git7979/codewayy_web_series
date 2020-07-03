@@ -1,0 +1,17 @@
+html{
+    font-family: consolas;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+table{
+    width: 200px;
+}
+footer{
+    font-style: bold;
+    color: green;
+}
+form{
+    width: 400px;
+}

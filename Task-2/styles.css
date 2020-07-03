@@ -1,0 +1,24 @@
+html{
+    font-family: consolas;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+form{
+    width : 300px;
+}
+input{
+    width: 200px;
+}
+table{
+    width: 200px;
+}
+img{
+    height: 50%;
+    width: 50%;
+}
+footer{
+    font-style: bold;
+    color: green;
+}
