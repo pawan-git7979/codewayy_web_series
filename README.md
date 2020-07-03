@@ -3,7 +3,7 @@
 
 ## Task1
 
-> It was about creating your first HTML Page with some commonly used tags.
+> HTML using every common tag twice
 
 ## Task2
 
